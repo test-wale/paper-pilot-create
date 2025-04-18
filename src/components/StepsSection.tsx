@@ -1,5 +1,5 @@
 
-import { BookOpen, FileDown, GraduationCap, Settings } from "lucide-react";
+import { BookOpen, FileDown, GraduationCap, Settings, ArrowRight } from "lucide-react";
 import { Card } from "./ui/card";
 
 const steps = [
